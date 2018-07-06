@@ -1,7 +1,7 @@
 var searchData=
 [
   ['_7ebasemotorcontroller',['~BaseMotorController',['../classctre_1_1phoenix_1_1motorcontrol_1_1can_1_1_base_motor_controller.html#a95e6c4332fd9dd86e3664937c84c0e98',1,'ctre::phoenix::motorcontrol::can::BaseMotorController']]],
-  ['_7ecanthreadmanager',['~CANThreadManager',['../classctre_1_1phoenix_1_1platform_1_1can_1_1_c_a_n_thread_manager.html#ad97af59b13b62207f771ec2c9a260245',1,'ctre::phoenix::platform::can::CANThreadManager']]],
+  ['_7ecanthreadmanager',['~CANThreadManager',['../classctre_1_1phoenix_1_1platform_1_1can_1_1_c_a_n_thread_manager.html#ad97af59b13b62207f771ec2c9a260245',1,'ctre::phoenix::platform::can::CANThreadManager::~CANThreadManager()'],['../classctre_1_1phoenix_1_1platform_1_1can_1_1_c_a_n_thread_manager.html#ad97af59b13b62207f771ec2c9a260245',1,'ctre::phoenix::platform::can::CANThreadManager::~CANThreadManager()']]],
   ['_7econcurrentscheduler',['~ConcurrentScheduler',['../classctre_1_1phoenix_1_1tasking_1_1schedulers_1_1_concurrent_scheduler.html#aca31722f6197937245ee5300ca2a58c0',1,'ctre::phoenix::tasking::schedulers::ConcurrentScheduler']]],
   ['_7edevice_5flowlevel',['~Device_LowLevel',['../class_device___low_level.html#ac143ceae597f41219b5dfafab3b86161',1,'Device_LowLevel']]],
   ['_7eifollower',['~IFollower',['../classctre_1_1phoenix_1_1motorcontrol_1_1_i_follower.html#a32b6aebce6669999f7fc41e4c26eae89',1,'ctre::phoenix::motorcontrol::IFollower']]],

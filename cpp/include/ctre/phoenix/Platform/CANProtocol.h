@@ -12,8 +12,6 @@ class CANProtocol {
 public:
 	static CANProtocol & GetInstance();
 
-    void SetInterface(const char * interface, bool &success);
-	//int GetControlWord(struct ControlWord_t *controlWord);
 	void SendMessage(uint32_t messageID, const uint8_t *data, uint8_t dataSize,
 			int32_t periodMs, int32_t *status);
 	void ReceiveMessage(uint32_t *messageID, uint32_t messageIDMask,

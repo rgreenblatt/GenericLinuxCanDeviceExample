@@ -29,7 +29,8 @@ var NAVTREE =
         [ "Functions", "globals_func.html", "globals_func" ],
         [ "Typedefs", "globals_type.html", null ],
         [ "Enumerations", "globals_enum.html", null ],
-        [ "Enumerator", "globals_eval.html", null ]
+        [ "Enumerator", "globals_eval.html", null ],
+        [ "Macros", "globals_defs.html", null ]
       ] ]
     ] ]
   ] ]
@@ -38,14 +39,14 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "_base_motor_controller_8cpp.html",
-"_limit_switch_type_8h.html#afd232c45ffd137c1dc94b1efc7697bc9",
-"_sensor_term_8h.html",
-"classctre_1_1phoenix_1_1_c_a_nifier.html#a19500f07bc0811a9da0993ff664efacea0bb2891848b1761293cf890bfc48193b",
-"classctre_1_1phoenix_1_1motorcontrol_1_1can_1_1_base_motor_controller.html#a675a0d4b459917b05fec22eae603d78c",
-"classctre_1_1phoenix_1_1platform_1_1can_1_1tx_task.html",
-"com__ctre__phoenix___motor_control___c_a_n___mot_controller_j_n_i_8h.html#adab8b6f4b27a605052f10b16a26ca620",
-"param_enum_8h.html#a60a71265fe1d1ea4656d1a07909384eca365ea44556bf86835099dbbdf225d213",
-"structctre_1_1phoenix_1_1sensors_1_1_pigeon_i_m_u_1_1_fusion_status.html#aa27a4295a082206e58e49acc74157769"
+"_limit_switch_type_8h.html#a7698d0dc218a2ca9f190d194e5af05e5a9669d161697f9f67b6c9d5a6984af2dd",
+"_sensor_collection_8h_source.html",
+"classctre_1_1phoenix_1_1_c_a_nifier.html#a19500f07bc0811a9da0993ff664eface",
+"classctre_1_1phoenix_1_1motorcontrol_1_1can_1_1_base_motor_controller.html#a63eb0f16a3f395fa0836fa4c3f5d3b89",
+"classctre_1_1phoenix_1_1platform_1_1can_1_1_c_a_n_thread_manager.html",
+"com__ctre__phoenix___motor_control___c_a_n___mot_controller_j_n_i_8h.html#abf4aa09860451e94b5feba4ac7ee0a79",
+"namespacemembers_t.html",
+"structctre_1_1phoenix_1_1motorcontrol_1_1_sticky_faults.html#aa0fe94d4b34e9fbd44201f21af9f67e3"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
