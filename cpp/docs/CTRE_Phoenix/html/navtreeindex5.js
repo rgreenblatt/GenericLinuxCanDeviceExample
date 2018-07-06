@@ -1,5 +1,16 @@
 var NAVTREEINDEX5 =
 {
+"classctre_1_1phoenix_1_1sensors_1_1_pigeon_i_m_u.html#a1ecb95bfb7966934003c2e5e1cd5f8e6":[1,0,0,0,3,0,11],
+"classctre_1_1phoenix_1_1sensors_1_1_pigeon_i_m_u.html#a211525ea83d9728416661238a2a5402a":[1,0,0,0,3,0,19],
+"classctre_1_1phoenix_1_1sensors_1_1_pigeon_i_m_u.html#a2331cf6916f5916758f2541197bb9591":[1,0,0,0,3,0,50],
+"classctre_1_1phoenix_1_1sensors_1_1_pigeon_i_m_u.html#a28e6055b4ae5d336eddf8dee1660c0a7":[1,0,0,0,3,0,18],
+"classctre_1_1phoenix_1_1sensors_1_1_pigeon_i_m_u.html#a2aabd41d906e3cfd078fcafdc27053dd":[1,0,0,0,3,0,22],
+"classctre_1_1phoenix_1_1sensors_1_1_pigeon_i_m_u.html#a2ac13e51a02cc9d391856767df6601dc":[1,0,0,0,3,0,31],
+"classctre_1_1phoenix_1_1sensors_1_1_pigeon_i_m_u.html#a328eb4e5f3fe9597bd5e864ee3055977":[1,0,0,0,3,0,32],
+"classctre_1_1phoenix_1_1sensors_1_1_pigeon_i_m_u.html#a391cdc4eed0c6f308a9af4b18557d198":[1,0,0,0,3,0,49],
+"classctre_1_1phoenix_1_1sensors_1_1_pigeon_i_m_u.html#a4433f3aeecbbaca6e95bcc99d7befab3":[1,0,0,0,3,0,4],
+"classctre_1_1phoenix_1_1sensors_1_1_pigeon_i_m_u.html#a4941a62d8d231d6adcb06eacf042acee":[1,0,0,0,3,0,34],
+"classctre_1_1phoenix_1_1sensors_1_1_pigeon_i_m_u.html#a4e25f6f4a36e8f164611e20a902c6129":[1,0,0,0,3,0,14],
 "classctre_1_1phoenix_1_1sensors_1_1_pigeon_i_m_u.html#a55a067993a2e4124442648780d74d1f5":[1,0,0,0,3,0,45],
 "classctre_1_1phoenix_1_1sensors_1_1_pigeon_i_m_u.html#a5802879bb7b5ea0bd19aec2ca7f38894":[1,0,0,0,3,0,44],
 "classctre_1_1phoenix_1_1sensors_1_1_pigeon_i_m_u.html#a5c1c8ef568bddcb3b5fd8133c2f614d9":[1,0,0,0,3,0,37],
@@ -238,16 +249,5 @@ var NAVTREEINDEX5 =
 "com__ctre__phoenix___motor_control___c_a_n___mot_controller_j_n_i_8h.html#ae4e104eee5e4e9e039aa9eec9487ff8f":[2,0,1,0,0,0,0,3,2,3],
 "com__ctre__phoenix___motor_control___c_a_n___mot_controller_j_n_i_8h.html#ae6b704067ca92aa744e7ddf8b7becb60":[2,0,1,0,0,0,0,3,2,45],
 "com__ctre__phoenix___motor_control___c_a_n___mot_controller_j_n_i_8h.html#ae753a5d9f4a6a0c890214c41fee81d8e":[2,0,1,0,0,0,0,3,2,24],
-"com__ctre__phoenix___motor_control___c_a_n___mot_controller_j_n_i_8h.html#aeedffa202bf063b7f3e0545bf45e837a":[2,0,1,0,0,0,0,3,2,10],
-"com__ctre__phoenix___motor_control___c_a_n___mot_controller_j_n_i_8h.html#af2a0afdc4d27b2aa5d3da728a8d075fa":[2,0,1,0,0,0,0,3,2,90],
-"com__ctre__phoenix___motor_control___c_a_n___mot_controller_j_n_i_8h.html#af40a2ec3486e6e8fd065aa1c078348a8":[2,0,1,0,0,0,0,3,2,98],
-"com__ctre__phoenix___motor_control___c_a_n___mot_controller_j_n_i_8h.html#af6bb07d024bf4d79f296c21fbed1904b":[2,0,1,0,0,0,0,3,2,80],
-"com__ctre__phoenix___motor_control___c_a_n___mot_controller_j_n_i_8h.html#af72d6dfa96df301ce73545fca4e7361a":[2,0,1,0,0,0,0,3,2,75],
-"com__ctre__phoenix___motor_control___c_a_n___mot_controller_j_n_i_8h.html#afee098b17453ae1f34c784ec67a0fe9d":[2,0,1,0,0,0,0,3,2,23],
-"com__ctre__phoenix___motor_control___c_a_n___mot_controller_j_n_i_8h_source.html":[2,0,1,0,0,0,0,3,2],
-"com__ctre__phoenix___sensors___pigeon_imu_j_n_i_8h.html":[2,0,1,0,0,0,0,3,3],
-"com__ctre__phoenix___sensors___pigeon_imu_j_n_i_8h.html#a094abeeb6c86d4253854d3c933b88d83":[2,0,1,0,0,0,0,3,3,24],
-"com__ctre__phoenix___sensors___pigeon_imu_j_n_i_8h.html#a1b63b3b9dcc6351ccb1dd1a7b87bf243":[2,0,1,0,0,0,0,3,3,20],
-"com__ctre__phoenix___sensors___pigeon_imu_j_n_i_8h.html#a2a1b689b96655aff135a0f00ae23e381":[2,0,1,0,0,0,0,3,3,30],
-"com__ctre__phoenix___sensors___pigeon_imu_j_n_i_8h.html#a2d54f31b630449d7feefba77c2aadb61":[2,0,1,0,0,0,0,3,3,22]
+"com__ctre__phoenix___motor_control___c_a_n___mot_controller_j_n_i_8h.html#aeedffa202bf063b7f3e0545bf45e837a":[2,0,1,0,0,0,0,3,2,10]
 };

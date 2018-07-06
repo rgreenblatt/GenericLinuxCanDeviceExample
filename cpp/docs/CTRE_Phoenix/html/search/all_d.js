@@ -3,7 +3,8 @@ var searchData=
   ['m_5fhandle',['m_handle',['../classctre_1_1phoenix_1_1motorcontrol_1_1can_1_1_base_motor_controller.html#a545fa41794dbd77202382d9d8ba7c8bf',1,'ctre::phoenix::motorcontrol::can::BaseMotorController']]],
   ['magnetometer12pt',['Magnetometer12Pt',['../classctre_1_1phoenix_1_1sensors_1_1_pigeon_i_m_u.html#a9d68b32fb459ed333cdc56039f280be8a53816a0194e4950c37b9b64c97d029b0',1,'ctre::phoenix::sensors::PigeonIMU::Magnetometer12Pt()'],['../class_low_level_pigeon_imu.html#a766d59093eb5ae3bb28d2f9ceb584a34ab9f625f2938c6acf07384a740fdc2e76',1,'LowLevelPigeonImu::Magnetometer12Pt()']]],
   ['magnetometer360',['Magnetometer360',['../classctre_1_1phoenix_1_1sensors_1_1_pigeon_i_m_u.html#a9d68b32fb459ed333cdc56039f280be8a31a6544e0296d8165185ec620894accc',1,'ctre::phoenix::sensors::PigeonIMU::Magnetometer360()'],['../class_low_level_pigeon_imu.html#a766d59093eb5ae3bb28d2f9ceb584a34ae0c05e4dbc048268dd58be84429a2dc8',1,'LowLevelPigeonImu::Magnetometer360()']]],
-  ['messageid',['messageID',['../structt_c_a_n_stream_message.html#a71a3a4d1009c29d1c6cf75944a52e067',1,'tCANStreamMessage']]],
+  ['messageid',['messageID',['../structt_c_a_n_stream_message.html#a71a3a4d1009c29d1c6cf75944a52e067',1,'tCANStreamMessage::messageID()'],['../structctre_1_1phoenix_1_1platform_1_1can_1_1_stream.html#aaca4d8aa89f32f3aa70ccfce3fd38199',1,'ctre::phoenix::platform::can::Stream::messageID()']]],
+  ['messageidmask',['messageIDMask',['../structctre_1_1phoenix_1_1platform_1_1can_1_1_stream.html#acc381233b19116b86a0cac539bd61ad4',1,'ctre::phoenix::platform::can::Stream']]],
   ['modecurrentcontrol',['modeCurrentControl',['../signal_types_8h.html#a06fc87d81c62e9abb8790b6e5713c55ba02cbb74f245db5a507ea4c0346cf1a70',1,'signalTypes.h']]],
   ['modedutycyclecontrol',['modeDutyCycleControl',['../signal_types_8h.html#a06fc87d81c62e9abb8790b6e5713c55bad8f2c7201737c891eb150f3569eaf095',1,'signalTypes.h']]],
   ['modemotionmagic',['modeMotionMagic',['../signal_types_8h.html#a06fc87d81c62e9abb8790b6e5713c55bac737c419a2af897c8116680ba8a2c51e',1,'signalTypes.h']]],
@@ -18,8 +19,8 @@ var searchData=
   ['motcontroller_5flowlevel',['MotController_LowLevel',['../classctre_1_1phoenix_1_1motorcontrol_1_1lowlevel_1_1_mot_controller___low_level.html',1,'ctre::phoenix::motorcontrol::lowlevel']]],
   ['motcontroller_5flowlevel',['MotController_LowLevel',['../classctre_1_1phoenix_1_1motorcontrol_1_1lowlevel_1_1_mot_controller___low_level.html#a416c231c8438bc8b4b70e5ae1a7c0263',1,'ctre::phoenix::motorcontrol::lowlevel::MotController_LowLevel']]],
   ['motcontroller_5flowlevel_2eh',['MotController_LowLevel.h',['../_mot_controller___low_level_8h.html',1,'']]],
-  ['motcontrollerwithbuffer_5flowlevel',['MotControllerWithBuffer_LowLevel',['../classctre_1_1phoenix_1_1motorcontrol_1_1lowlevel_1_1_mot_controller_with_buffer___low_level.html',1,'ctre::phoenix::motorcontrol::lowlevel']]],
   ['motcontrollerwithbuffer_5flowlevel',['MotControllerWithBuffer_LowLevel',['../classctre_1_1phoenix_1_1motorcontrol_1_1lowlevel_1_1_mot_controller_with_buffer___low_level.html#a5c41e5764483a2e591f19717b7358618',1,'ctre::phoenix::motorcontrol::lowlevel::MotControllerWithBuffer_LowLevel']]],
+  ['motcontrollerwithbuffer_5flowlevel',['MotControllerWithBuffer_LowLevel',['../classctre_1_1phoenix_1_1motorcontrol_1_1lowlevel_1_1_mot_controller_with_buffer___low_level.html',1,'ctre::phoenix::motorcontrol::lowlevel']]],
   ['motcontrollerwithbuffer_5flowlevel_2eh',['MotControllerWithBuffer_LowLevel.h',['../_mot_controller_with_buffer___low_level_8h.html',1,'']]],
   ['motionmagic',['MotionMagic',['../namespacectre_1_1phoenix_1_1motorcontrol.html#a005f39c5a73e9bd580bd62bcb116520ca68e2b0401fc71ab26bad42e12d9d06b6',1,'ctre::phoenix::motorcontrol']]],
   ['motionmagicarc',['motionMagicArc',['../signal_types_8h.html#a06fc87d81c62e9abb8790b6e5713c55ba2d447df9386f8d9c1d82b9531f815ec2',1,'signalTypes.h']]],
@@ -37,5 +38,6 @@ var searchData=
   ['motproffirmthreshold2',['MotProfFirmThreshold2',['../namespacectre_1_1phoenix.html#ab3a22fd2d2cd99e3c672f37a054e3171a80e145fff0eed0bb19ce1f48bf3be294',1,'ctre::phoenix']]],
   ['movingaverage',['MovingAverage',['../classctre_1_1phoenix_1_1signals_1_1_moving_average.html#a3a99b65fbf9f80ca3473f8f2b26e6858',1,'ctre::phoenix::signals::MovingAverage']]],
   ['movingaverage',['MovingAverage',['../classctre_1_1phoenix_1_1signals_1_1_moving_average.html',1,'ctre::phoenix::signals']]],
-  ['movingaverage_2eh',['MovingAverage.h',['../_moving_average_8h.html',1,'']]]
+  ['movingaverage_2eh',['MovingAverage.h',['../_moving_average_8h.html',1,'']]],
+  ['msg',['msg',['../structctre_1_1phoenix_1_1platform_1_1can_1_1_stored_send_data.html#ae20de93092b73fe27f0096a473ebf15e',1,'ctre::phoenix::platform::can::StoredSendData']]]
 ];

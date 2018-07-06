@@ -1,6 +1,7 @@
 var searchData=
 [
   ['lasterror',['lastError',['../structctre_1_1phoenix_1_1sensors_1_1_pigeon_i_m_u_1_1_fusion_status.html#a87011309838dbab743acb59c3c15aaca',1,'ctre::phoenix::sensors::PigeonIMU::FusionStatus::lastError()'],['../structctre_1_1phoenix_1_1sensors_1_1_pigeon_i_m_u_1_1_general_status.html#a56f277b5dedd1176e11c861e18a05d94',1,'ctre::phoenix::sensors::PigeonIMU::GeneralStatus::lastError()'],['../struct_low_level_pigeon_imu_1_1_fusion_status.html#a380de807862b2f3d2c990b0b178a1a01',1,'LowLevelPigeonImu::FusionStatus::lastError()'],['../struct_low_level_pigeon_imu_1_1_general_status.html#a55288e5e8c00ad115ddd56cf2ba90ca3',1,'LowLevelPigeonImu::GeneralStatus::lastError()']]],
+  ['lastsent',['lastSent',['../structctre_1_1phoenix_1_1platform_1_1can_1_1_stored_send_data.html#ac6bd10f792866a2c13d99dbb9f4e5824',1,'ctre::phoenix::platform::can::StoredSendData']]],
   ['ledchannel',['LEDChannel',['../classctre_1_1phoenix_1_1_c_a_nifier.html#a830045cce4d3bf8a08a1da76b8a703ec',1,'ctre::phoenix::CANifier']]],
   ['ledchannela',['LEDChannelA',['../classctre_1_1phoenix_1_1_c_a_nifier.html#a830045cce4d3bf8a08a1da76b8a703eca9de2a81db28ecac8c704396625813f41',1,'ctre::phoenix::CANifier']]],
   ['ledchannelb',['LEDChannelB',['../classctre_1_1phoenix_1_1_c_a_nifier.html#a830045cce4d3bf8a08a1da76b8a703ecad67a213353466d9aa4de58b870c6ad13',1,'ctre::phoenix::CANifier']]],
@@ -23,6 +24,7 @@ var searchData=
   ['linearinterpolation',['LinearInterpolation',['../classctre_1_1phoenix_1_1_linear_interpolation.html',1,'ctre::phoenix']]],
   ['linearinterpolation_2ecpp',['LinearInterpolation.cpp',['../_linear_interpolation_8cpp.html',1,'']]],
   ['linearinterpolation_2eh',['LinearInterpolation.h',['../_linear_interpolation_8h.html',1,'']]],
+  ['localstamp',['localStamp',['../structctre_1_1phoenix_1_1platform_1_1can_1_1_stored_receive_data.html#a35881281d9937b9643a893d74803db21',1,'ctre::phoenix::platform::can::StoredReceiveData']]],
   ['log',['Log',['../classctre_1_1phoenix_1_1_c_t_r_logger.html#ac2087bf8fc66b0013619f790122df2ba',1,'ctre::phoenix::CTRLogger::Log()'],['../class_logger_driver.html#ac529fe7d9caa4c26e3fd2a1ebcb54bb9',1,'LoggerDriver::Log()']]],
   ['logger_5fcci_2eh',['Logger_CCI.h',['../_logger___c_c_i_8h.html',1,'']]],
   ['logger_5flowlevel_2eh',['Logger_LowLevel.h',['../_logger___low_level_8h.html',1,'']]],

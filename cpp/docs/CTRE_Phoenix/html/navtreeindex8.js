@@ -1,0 +1,22 @@
+var NAVTREEINDEX8 =
+{
+"structctre_1_1phoenix_1_1sensors_1_1_pigeon_i_m_u_1_1_general_status.html#a83eb41fd825366f4d1cf113add3faa53":[1,0,0,0,3,0,1,1],
+"structctre_1_1phoenix_1_1sensors_1_1_pigeon_i_m_u_1_1_general_status.html#a8a1435f0c95926b51180ea4ed4da075d":[1,0,0,0,3,0,1,6],
+"structctre_1_1phoenix_1_1sensors_1_1_pigeon_i_m_u_1_1_general_status.html#aaf309fd4855040ac6f9df8ba2882b9a2":[1,0,0,0,3,0,1,7],
+"structctre_1_1phoenix_1_1sensors_1_1_pigeon_i_m_u_1_1_general_status.html#af7ffcab862903c04463d1bf0ed5629f5":[1,0,0,0,3,0,1,9],
+"structctre_1_1phoenix_1_1sensors_1_1_pigeon_i_m_u___faults.html":[1,0,0,0,3,1],
+"structctre_1_1phoenix_1_1sensors_1_1_pigeon_i_m_u___faults.html#a022cb4a4c6ab4b834c53a9eb8921c475":[1,0,0,0,3,1,1],
+"structctre_1_1phoenix_1_1sensors_1_1_pigeon_i_m_u___faults.html#a21c8cff7e374d3d5ebcb568f95736d12":[1,0,0,0,3,1,2],
+"structctre_1_1phoenix_1_1sensors_1_1_pigeon_i_m_u___faults.html#a4771598e23df4425fdd9737acd858bd7":[1,0,0,0,3,1,3],
+"structctre_1_1phoenix_1_1sensors_1_1_pigeon_i_m_u___faults.html#af24489bfbae5574737cc6c6042afaeca":[1,0,0,0,3,1,0],
+"structctre_1_1phoenix_1_1sensors_1_1_pigeon_i_m_u___sticky_faults.html":[1,0,0,0,3,2],
+"structctre_1_1phoenix_1_1sensors_1_1_pigeon_i_m_u___sticky_faults.html#a3248246bc51b5fed3c6ddd4d992d2b43":[1,0,0,0,3,2,3],
+"structctre_1_1phoenix_1_1sensors_1_1_pigeon_i_m_u___sticky_faults.html#a979b05dc4869af9711cf0f4686fdce97":[1,0,0,0,3,2,0],
+"structctre_1_1phoenix_1_1sensors_1_1_pigeon_i_m_u___sticky_faults.html#ad78be77935c9cdb35e8394335bf8e6d5":[1,0,0,0,3,2,2],
+"structctre_1_1phoenix_1_1sensors_1_1_pigeon_i_m_u___sticky_faults.html#aeee3b7f25bc9470a1deb3abb83d82ca3":[1,0,0,0,3,2,1],
+"structt_c_a_n_stream_message.html":[1,0,8],
+"structt_c_a_n_stream_message.html#a106048dd018cff7b08e1377dff2f2093":[1,0,8,3],
+"structt_c_a_n_stream_message.html#a4297a1ba247fcc1b3d3326c7cf7bfa36":[1,0,8,1],
+"structt_c_a_n_stream_message.html#a4f5bf6201f0a16b764322ecb743138e1":[1,0,8,0],
+"structt_c_a_n_stream_message.html#a71a3a4d1009c29d1c6cf75944a52e067":[1,0,8,2]
+};

@@ -6,6 +6,7 @@ var hierarchy =
     ] ],
     [ "ctre::phoenix::CANifierFaults", "structctre_1_1phoenix_1_1_c_a_nifier_faults.html", null ],
     [ "ctre::phoenix::CANifierStickyFaults", "structctre_1_1phoenix_1_1_c_a_nifier_sticky_faults.html", null ],
+    [ "ctre::phoenix::platform::can::CANThreadManager", "classctre_1_1phoenix_1_1platform_1_1can_1_1_c_a_n_thread_manager.html", null ],
     [ "ctre::phoenix::motorcontrol::ControlFrameRoutines", "classctre_1_1phoenix_1_1motorcontrol_1_1_control_frame_routines.html", null ],
     [ "ctre::phoenix::CTRLogger", "classctre_1_1phoenix_1_1_c_t_r_logger.html", null ],
     [ "Device_LowLevel", "class_device___low_level.html", [
@@ -61,6 +62,9 @@ var hierarchy =
     [ "ctre::phoenix::motorcontrol::StatusFrameRoutines", "classctre_1_1phoenix_1_1motorcontrol_1_1_status_frame_routines.html", null ],
     [ "ctre::phoenix::motorcontrol::StickyFaults", "structctre_1_1phoenix_1_1motorcontrol_1_1_sticky_faults.html", null ],
     [ "ctre::phoenix::Stopwatch", "classctre_1_1phoenix_1_1_stopwatch.html", null ],
+    [ "ctre::phoenix::platform::can::StoredReceiveData", "structctre_1_1phoenix_1_1platform_1_1can_1_1_stored_receive_data.html", null ],
+    [ "ctre::phoenix::platform::can::StoredSendData", "structctre_1_1phoenix_1_1platform_1_1can_1_1_stored_send_data.html", null ],
+    [ "ctre::phoenix::platform::can::Stream", "structctre_1_1phoenix_1_1platform_1_1can_1_1_stream.html", null ],
     [ "ctre::phoenix::platform::SysWatchdog", "classctre_1_1phoenix_1_1platform_1_1_sys_watchdog.html", null ],
     [ "tCANStreamMessage", "structt_c_a_n_stream_message.html", null ],
     [ "ctre::phoenix::motion::TrajectoryPoint", "structctre_1_1phoenix_1_1motion_1_1_trajectory_point.html", null ],

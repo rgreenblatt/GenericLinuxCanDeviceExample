@@ -1,5 +1,7 @@
 var NAVTREEINDEX4 =
 {
+"classctre_1_1phoenix_1_1motorcontrol_1_1can_1_1_base_motor_controller.html#a6da5a6d28705576fb37f61170d2279be":[1,0,0,0,1,0,0,56],
+"classctre_1_1phoenix_1_1motorcontrol_1_1can_1_1_base_motor_controller.html#a6e3f214cbccb7a8a73119e3dc7e90444":[1,0,0,0,1,0,0,41],
 "classctre_1_1phoenix_1_1motorcontrol_1_1can_1_1_base_motor_controller.html#a7d180a3e9f187904fa124bca665ad199":[1,0,0,0,1,0,0,74],
 "classctre_1_1phoenix_1_1motorcontrol_1_1can_1_1_base_motor_controller.html#a82cf461b6a6e4b9a5968e4ec76c0248f":[1,0,0,0,1,0,0,81],
 "classctre_1_1phoenix_1_1motorcontrol_1_1can_1_1_base_motor_controller.html#a82e272a9acea821ced21eb5ea5d0975d":[1,0,0,0,1,0,0,83],
@@ -230,7 +232,16 @@ var NAVTREEINDEX4 =
 "classctre_1_1phoenix_1_1platform_1_1_sys_watchdog.html#a26fd3ff9115c0f6cd6e942d2f333b306":[1,0,0,0,2,1,1],
 "classctre_1_1phoenix_1_1platform_1_1_sys_watchdog.html#a3ec2f307cfaad5819dc30823d5f7c9ff":[1,0,0,0,2,1,0],
 "classctre_1_1phoenix_1_1platform_1_1_sys_watchdog.html#a5c3031a05f64e731e4e1e2a30ac7d5e0":[1,0,0,0,2,1,2],
-"classctre_1_1phoenix_1_1platform_1_1can_1_1tx_task.html":[1,0,0,0,2,0,0],
+"classctre_1_1phoenix_1_1platform_1_1can_1_1_c_a_n_thread_manager.html":[1,0,0,0,2,0,0],
+"classctre_1_1phoenix_1_1platform_1_1can_1_1_c_a_n_thread_manager.html#a0f6588acd4cef8d70206ed0a7e7da0f6":[1,0,0,0,2,0,0,1],
+"classctre_1_1phoenix_1_1platform_1_1can_1_1_c_a_n_thread_manager.html#a632674170ccfaa73fd93b4ca1ef30c3e":[1,0,0,0,2,0,0,0],
+"classctre_1_1phoenix_1_1platform_1_1can_1_1_c_a_n_thread_manager.html#a77a9879c33ad011b59c0981c2db15b43":[1,0,0,0,2,0,0,5],
+"classctre_1_1phoenix_1_1platform_1_1can_1_1_c_a_n_thread_manager.html#a910f2827545a5b30e8d2208f4106a6fd":[1,0,0,0,2,0,0,3],
+"classctre_1_1phoenix_1_1platform_1_1can_1_1_c_a_n_thread_manager.html#aacc879ee35253e8a0173fd0c0e5389f4":[1,0,0,0,2,0,0,6],
+"classctre_1_1phoenix_1_1platform_1_1can_1_1_c_a_n_thread_manager.html#aba087eb564e931d10637d21360715fbf":[1,0,0,0,2,0,0,7],
+"classctre_1_1phoenix_1_1platform_1_1can_1_1_c_a_n_thread_manager.html#ac0341ce5ad35a20130d1064443c553db":[1,0,0,0,2,0,0,4],
+"classctre_1_1phoenix_1_1platform_1_1can_1_1_c_a_n_thread_manager.html#ad97af59b13b62207f771ec2c9a260245":[1,0,0,0,2,0,0,2],
+"classctre_1_1phoenix_1_1platform_1_1can_1_1tx_task.html":[1,0,0,0,2,0,4],
 "classctre_1_1phoenix_1_1sensors_1_1_pigeon_i_m_u.html":[1,0,0,0,3,0],
 "classctre_1_1phoenix_1_1sensors_1_1_pigeon_i_m_u.html#a05f9bcd12bdac2a7ab4659be8bb12380":[1,0,0,0,3,0,9],
 "classctre_1_1phoenix_1_1sensors_1_1_pigeon_i_m_u.html#a0c1a997d1396b91ca5648dc79e6d0930":[1,0,0,0,3,0,8],
@@ -238,16 +249,5 @@ var NAVTREEINDEX4 =
 "classctre_1_1phoenix_1_1sensors_1_1_pigeon_i_m_u.html#a162f01f44b3d51018158ca589d235d1f":[1,0,0,0,3,0,35],
 "classctre_1_1phoenix_1_1sensors_1_1_pigeon_i_m_u.html#a16de5155b2360e592865fd9e90260263":[1,0,0,0,3,0,16],
 "classctre_1_1phoenix_1_1sensors_1_1_pigeon_i_m_u.html#a1a27f5bbdc3537e34579a8e71032f274":[1,0,0,0,3,0,15],
-"classctre_1_1phoenix_1_1sensors_1_1_pigeon_i_m_u.html#a1ce135de4e016b418fdb234bbf093a4d":[1,0,0,0,3,0,23],
-"classctre_1_1phoenix_1_1sensors_1_1_pigeon_i_m_u.html#a1ecb95bfb7966934003c2e5e1cd5f8e6":[1,0,0,0,3,0,11],
-"classctre_1_1phoenix_1_1sensors_1_1_pigeon_i_m_u.html#a211525ea83d9728416661238a2a5402a":[1,0,0,0,3,0,19],
-"classctre_1_1phoenix_1_1sensors_1_1_pigeon_i_m_u.html#a2331cf6916f5916758f2541197bb9591":[1,0,0,0,3,0,50],
-"classctre_1_1phoenix_1_1sensors_1_1_pigeon_i_m_u.html#a28e6055b4ae5d336eddf8dee1660c0a7":[1,0,0,0,3,0,18],
-"classctre_1_1phoenix_1_1sensors_1_1_pigeon_i_m_u.html#a2aabd41d906e3cfd078fcafdc27053dd":[1,0,0,0,3,0,22],
-"classctre_1_1phoenix_1_1sensors_1_1_pigeon_i_m_u.html#a2ac13e51a02cc9d391856767df6601dc":[1,0,0,0,3,0,31],
-"classctre_1_1phoenix_1_1sensors_1_1_pigeon_i_m_u.html#a328eb4e5f3fe9597bd5e864ee3055977":[1,0,0,0,3,0,32],
-"classctre_1_1phoenix_1_1sensors_1_1_pigeon_i_m_u.html#a391cdc4eed0c6f308a9af4b18557d198":[1,0,0,0,3,0,49],
-"classctre_1_1phoenix_1_1sensors_1_1_pigeon_i_m_u.html#a4433f3aeecbbaca6e95bcc99d7befab3":[1,0,0,0,3,0,4],
-"classctre_1_1phoenix_1_1sensors_1_1_pigeon_i_m_u.html#a4941a62d8d231d6adcb06eacf042acee":[1,0,0,0,3,0,34],
-"classctre_1_1phoenix_1_1sensors_1_1_pigeon_i_m_u.html#a4e25f6f4a36e8f164611e20a902c6129":[1,0,0,0,3,0,14]
+"classctre_1_1phoenix_1_1sensors_1_1_pigeon_i_m_u.html#a1ce135de4e016b418fdb234bbf093a4d":[1,0,0,0,3,0,23]
 };
