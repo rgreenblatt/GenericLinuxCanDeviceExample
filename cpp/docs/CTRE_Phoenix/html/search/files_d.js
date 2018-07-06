@@ -11,6 +11,5 @@ var searchData=
   ['stickyfaults_2eh',['StickyFaults.h',['../_sticky_faults_8h.html',1,'']]],
   ['stopwatch_2ecpp',['Stopwatch.cpp',['../_stopwatch_8cpp.html',1,'']]],
   ['stopwatch_2eh',['Stopwatch.h',['../_stopwatch_8h.html',1,'']]],
-  ['syswatchdog_2eh',['SysWatchdog.h',['../ctre_2phoenix_2_platform_2_sys_watchdog_8h.html',1,'']]],
   ['syswatchdog_2eh',['SysWatchdog.h',['../_sys_watchdog_8h.html',1,'']]]
 ];

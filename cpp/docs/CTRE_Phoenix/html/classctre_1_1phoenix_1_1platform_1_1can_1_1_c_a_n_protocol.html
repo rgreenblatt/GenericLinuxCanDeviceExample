@@ -129,25 +129,9 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:afedb20f5ed23dbabbaf588c16c5a1e5b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a656693d5df2b031080c1a15ebf3ad5db"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classctre_1_1phoenix_1_1platform_1_1can_1_1_c_a_n_protocol.html#a656693d5df2b031080c1a15ebf3ad5db">ReadStreamSession</a> (uint32_t sessionHandle, struct <a class="el" href="structt_c_a_n_stream_message.html">tCANStreamMessage</a> *messages, uint32_t messagesToRead, uint32_t *messagesRead, int32_t *status)</td></tr>
 <tr class="separator:a656693d5df2b031080c1a15ebf3ad5db"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:addb95cba29a6bd699450e85dbcf5c886"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classctre_1_1phoenix_1_1platform_1_1can_1_1_c_a_n_protocol.html#addb95cba29a6bd699450e85dbcf5c886">SendError</a> (int isError, int32_t errorCode, int isLVCode, const char *details, const char *location, const char *callStack)</td></tr>
-<tr class="separator:addb95cba29a6bd699450e85dbcf5c886"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a905a1386eec399645122c6d43e55fff8"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classctre_1_1phoenix_1_1platform_1_1can_1_1_c_a_n_protocol.html#a905a1386eec399645122c6d43e55fff8">SendMessage</a> (uint32_t messageID, const uint8_t *data, uint8_t dataSize, int32_t periodMs, int32_t *status)</td></tr>
-<tr class="separator:a905a1386eec399645122c6d43e55fff8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afab94c04a71a12d5ecdf0a14d8eac717"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classctre_1_1phoenix_1_1platform_1_1can_1_1_c_a_n_protocol.html#afab94c04a71a12d5ecdf0a14d8eac717">ReceiveMessage</a> (uint32_t *messageID, uint32_t messageIDMask, uint8_t *data, uint8_t *dataSize, uint32_t *timeStamp, int32_t *status)</td></tr>
-<tr class="separator:afab94c04a71a12d5ecdf0a14d8eac717"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af25735da9c55df4d4a1fe33c48fb785e"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classctre_1_1phoenix_1_1platform_1_1can_1_1_c_a_n_protocol.html#af25735da9c55df4d4a1fe33c48fb785e">OpenStreamSession</a> (uint32_t *sessionHandle, uint32_t messageID, uint32_t messageIDMask, uint32_t maxMessages, int32_t *status)</td></tr>
-<tr class="separator:af25735da9c55df4d4a1fe33c48fb785e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afedb20f5ed23dbabbaf588c16c5a1e5b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classctre_1_1phoenix_1_1platform_1_1can_1_1_c_a_n_protocol.html#afedb20f5ed23dbabbaf588c16c5a1e5b">CloseStreamSession</a> (uint32_t sessionHandle)</td></tr>
-<tr class="separator:afedb20f5ed23dbabbaf588c16c5a1e5b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a656693d5df2b031080c1a15ebf3ad5db"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classctre_1_1phoenix_1_1platform_1_1can_1_1_c_a_n_protocol.html#a656693d5df2b031080c1a15ebf3ad5db">ReadStreamSession</a> (uint32_t sessionHandle, struct <a class="el" href="structt_c_a_n_stream_message.html">tCANStreamMessage</a> *messages, uint32_t messagesToRead, uint32_t *messagesRead, int32_t *status)</td></tr>
-<tr class="separator:a656693d5df2b031080c1a15ebf3ad5db"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-static-methods"></a>
 Static Public Member Functions</h2></td></tr>
-<tr class="memitem:a4227f978b3e810693b8d96bd873822c3"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="classctre_1_1phoenix_1_1platform_1_1can_1_1_c_a_n_protocol.html">CANProtocol</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classctre_1_1phoenix_1_1platform_1_1can_1_1_c_a_n_protocol.html#a4227f978b3e810693b8d96bd873822c3">GetInstance</a> (static char interface[8])</td></tr>
-<tr class="separator:a4227f978b3e810693b8d96bd873822c3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a48d04b64ec019c1f0a5218d032dcddad"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="classctre_1_1phoenix_1_1platform_1_1can_1_1_c_a_n_protocol.html">CANProtocol</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classctre_1_1phoenix_1_1platform_1_1can_1_1_c_a_n_protocol.html#a48d04b64ec019c1f0a5218d032dcddad">GetInstance</a> ()</td></tr>
-<tr class="separator:a48d04b64ec019c1f0a5218d032dcddad"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a48d04b64ec019c1f0a5218d032dcddad"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="classctre_1_1phoenix_1_1platform_1_1can_1_1_c_a_n_protocol.html">CANProtocol</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classctre_1_1phoenix_1_1platform_1_1can_1_1_c_a_n_protocol.html#a48d04b64ec019c1f0a5218d032dcddad">GetInstance</a> ()</td></tr>
 <tr class="separator:a48d04b64ec019c1f0a5218d032dcddad"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
@@ -168,69 +152,6 @@ Static Public Member Functions</h2></td></tr>
 
 </div>
 </div>
-<a class="anchor" id="afedb20f5ed23dbabbaf588c16c5a1e5b"></a>
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void ctre::phoenix::platform::can::CANProtocol::CloseStreamSession </td>
-          <td>(</td>
-          <td class="paramtype">uint32_t&#160;</td>
-          <td class="paramname"><em>sessionHandle</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a class="anchor" id="a48d04b64ec019c1f0a5218d032dcddad"></a>
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">static <a class="el" href="classctre_1_1phoenix_1_1platform_1_1can_1_1_c_a_n_protocol.html">CANProtocol</a>&amp; ctre::phoenix::platform::can::CANProtocol::GetInstance </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a class="anchor" id="a4227f978b3e810693b8d96bd873822c3"></a>
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">static <a class="el" href="classctre_1_1phoenix_1_1platform_1_1can_1_1_c_a_n_protocol.html">CANProtocol</a>&amp; ctre::phoenix::platform::can::CANProtocol::GetInstance </td>
-          <td>(</td>
-          <td class="paramtype">static char&#160;</td>
-          <td class="paramname"><em>interface</em>[8]</td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
 <a class="anchor" id="a48d04b64ec019c1f0a5218d032dcddad"></a>
 <div class="memitem">
 <div class="memproto">
@@ -281,94 +202,6 @@ Static Public Member Functions</h2></td></tr>
           <td></td>
           <td class="paramtype">uint32_t&#160;</td>
           <td class="paramname"><em>maxMessages</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">int32_t *&#160;</td>
-          <td class="paramname"><em>status</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a class="anchor" id="af25735da9c55df4d4a1fe33c48fb785e"></a>
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void ctre::phoenix::platform::can::CANProtocol::OpenStreamSession </td>
-          <td>(</td>
-          <td class="paramtype">uint32_t *&#160;</td>
-          <td class="paramname"><em>sessionHandle</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">uint32_t&#160;</td>
-          <td class="paramname"><em>messageID</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">uint32_t&#160;</td>
-          <td class="paramname"><em>messageIDMask</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">uint32_t&#160;</td>
-          <td class="paramname"><em>maxMessages</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">int32_t *&#160;</td>
-          <td class="paramname"><em>status</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a class="anchor" id="a656693d5df2b031080c1a15ebf3ad5db"></a>
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void ctre::phoenix::platform::can::CANProtocol::ReadStreamSession </td>
-          <td>(</td>
-          <td class="paramtype">uint32_t&#160;</td>
-          <td class="paramname"><em>sessionHandle</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">struct <a class="el" href="structt_c_a_n_stream_message.html">tCANStreamMessage</a> *&#160;</td>
-          <td class="paramname"><em>messages</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">uint32_t&#160;</td>
-          <td class="paramname"><em>messagesToRead</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">uint32_t *&#160;</td>
-          <td class="paramname"><em>messagesRead</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
@@ -463,150 +296,6 @@ Static Public Member Functions</h2></td></tr>
           <td></td>
           <td class="paramtype">uint32_t *&#160;</td>
           <td class="paramname"><em>timeStamp</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">int32_t *&#160;</td>
-          <td class="paramname"><em>status</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a class="anchor" id="afab94c04a71a12d5ecdf0a14d8eac717"></a>
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void ctre::phoenix::platform::can::CANProtocol::ReceiveMessage </td>
-          <td>(</td>
-          <td class="paramtype">uint32_t *&#160;</td>
-          <td class="paramname"><em>messageID</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">uint32_t&#160;</td>
-          <td class="paramname"><em>messageIDMask</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">uint8_t *&#160;</td>
-          <td class="paramname"><em>data</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">uint8_t *&#160;</td>
-          <td class="paramname"><em>dataSize</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">uint32_t *&#160;</td>
-          <td class="paramname"><em>timeStamp</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">int32_t *&#160;</td>
-          <td class="paramname"><em>status</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a class="anchor" id="addb95cba29a6bd699450e85dbcf5c886"></a>
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void ctre::phoenix::platform::can::CANProtocol::SendError </td>
-          <td>(</td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>isError</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">int32_t&#160;</td>
-          <td class="paramname"><em>errorCode</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>isLVCode</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">const char *&#160;</td>
-          <td class="paramname"><em>details</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">const char *&#160;</td>
-          <td class="paramname"><em>location</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">const char *&#160;</td>
-          <td class="paramname"><em>callStack</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a class="anchor" id="a905a1386eec399645122c6d43e55fff8"></a>
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void ctre::phoenix::platform::can::CANProtocol::SendMessage </td>
-          <td>(</td>
-          <td class="paramtype">uint32_t&#160;</td>
-          <td class="paramname"><em>messageID</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">const uint8_t *&#160;</td>
-          <td class="paramname"><em>data</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">uint8_t&#160;</td>
-          <td class="paramname"><em>dataSize</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">int32_t&#160;</td>
-          <td class="paramname"><em>periodMs</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
@@ -669,7 +358,7 @@ Static Public Member Functions</h2></td></tr>
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following file:<ul>
-<li>libraries/driver/include/<a class="el" href="_c_a_n_protocol_8h_source.html">CANProtocol.h</a></li>
+<li>libraries/driver/include/ctre/phoenix/Platform/<a class="el" href="_c_a_n_protocol_8h_source.html">CANProtocol.h</a></li>
 </ul>
 </div><!-- contents -->
 </div><!-- doc-content -->

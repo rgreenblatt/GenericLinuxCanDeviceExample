@@ -11,8 +11,6 @@ var searchData=
   ['canifierstickyfaults_2eh',['CANifierStickyFaults.h',['../_c_a_nifier_sticky_faults_8h.html',1,'']]],
   ['canifiervelocitymeasperiod_2eh',['CANifierVelocityMeasPeriod.h',['../_c_a_nifier_velocity_meas_period_8h.html',1,'']]],
   ['canprotocol_2eh',['CANProtocol.h',['../_c_a_n_protocol_8h.html',1,'']]],
-  ['canprotocol_2eh',['CANProtocol.h',['../ctre_2phoenix_2_platform_2_c_a_n_protocol_8h.html',1,'']]],
-  ['canthreadmanager_2eh',['CANThreadManager.h',['../ctre_2phoenix_2_platform_2_c_a_n_thread_manager_8h.html',1,'']]],
   ['canthreadmanager_2eh',['CANThreadManager.h',['../_c_a_n_thread_manager_8h.html',1,'']]],
   ['com_5fctre_5fphoenix_5fcanifierjni_2eh',['com_ctre_phoenix_CANifierJNI.h',['../com__ctre__phoenix___c_a_nifier_j_n_i_8h.html',1,'']]],
   ['com_5fctre_5fphoenix_5fctrloggerjni_2eh',['com_ctre_phoenix_CTRLoggerJNI.h',['../com__ctre__phoenix___c_t_r_logger_j_n_i_8h.html',1,'']]],

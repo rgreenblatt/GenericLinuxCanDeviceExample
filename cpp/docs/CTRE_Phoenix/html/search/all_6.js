@@ -6,7 +6,7 @@ var searchData=
   ['featurenotsupported',['FeatureNotSupported',['../namespacectre_1_1phoenix.html#ab3a22fd2d2cd99e3c672f37a054e3171af7221322f43a71d1b22f91dd05bb4746',1,'ctre::phoenix']]],
   ['featurerequireshigherfirm',['FeatureRequiresHigherFirm',['../namespacectre_1_1phoenix.html#ab3a22fd2d2cd99e3c672f37a054e3171ae7aaeee5ff858dcbee4e3876eb426681',1,'ctre::phoenix']]],
   ['featuresnotavailableyet',['FeaturesNotAvailableYet',['../namespacectre_1_1phoenix.html#ab3a22fd2d2cd99e3c672f37a054e3171a81d2528308f754ff9adccc2efd2e9be6',1,'ctre::phoenix']]],
-  ['feed',['Feed',['../classctre_1_1phoenix_1_1platform_1_1_sys_watchdog.html#a5c3031a05f64e731e4e1e2a30ac7d5e0',1,'ctre::phoenix::platform::SysWatchdog::Feed(int timeoutMs)'],['../classctre_1_1phoenix_1_1platform_1_1_sys_watchdog.html#a5c3031a05f64e731e4e1e2a30ac7d5e0',1,'ctre::phoenix::platform::SysWatchdog::Feed(int timeoutMs)']]],
+  ['feed',['Feed',['../classctre_1_1phoenix_1_1platform_1_1_sys_watchdog.html#a5c3031a05f64e731e4e1e2a30ac7d5e0',1,'ctre::phoenix::platform::SysWatchdog']]],
   ['feedbackdevice',['FeedbackDevice',['../namespacectre_1_1phoenix_1_1motorcontrol.html#a76df6b51b79bdd3710ddcd6ef43050e7',1,'ctre::phoenix::motorcontrol']]],
   ['feedbackdevice_2eh',['FeedbackDevice.h',['../_feedback_device_8h.html',1,'']]],
   ['feedbackdevice_5ft',['feedbackDevice_t',['../signal_types_8h.html#ad0d9a1923ad5796611449abc86097184',1,'signalTypes.h']]],

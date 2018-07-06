@@ -1,7 +1,7 @@
 var searchData=
 [
-  ['data',['data',['../structctre_1_1phoenix_1_1platform_1_1can_1_1_stored_receive_data.html#a8786c19489d0dca1c0d98cb56e9b8089',1,'ctre::phoenix::platform::can::StoredReceiveData::data()'],['../structt_c_a_n_stream_message.html#a4f5bf6201f0a16b764322ecb743138e1',1,'tCANStreamMessage::data()']]],
-  ['datasize',['dataSize',['../structctre_1_1phoenix_1_1platform_1_1can_1_1_stored_receive_data.html#a8f21ad503a7ac7fb5980b5b0df55d307',1,'ctre::phoenix::platform::can::StoredReceiveData::dataSize()'],['../structt_c_a_n_stream_message.html#a4297a1ba247fcc1b3d3326c7cf7bfa36',1,'tCANStreamMessage::dataSize()']]],
+  ['data',['data',['../structt_c_a_n_stream_message.html#a4f5bf6201f0a16b764322ecb743138e1',1,'tCANStreamMessage::data()'],['../structctre_1_1phoenix_1_1platform_1_1can_1_1_stored_receive_data.html#a839df82cf7775145ab96ab320b7204af',1,'ctre::phoenix::platform::can::StoredReceiveData::data()']]],
+  ['datasize',['dataSize',['../structt_c_a_n_stream_message.html#a4297a1ba247fcc1b3d3326c7cf7bfa36',1,'tCANStreamMessage::dataSize()'],['../structctre_1_1phoenix_1_1platform_1_1can_1_1_stored_receive_data.html#a8f21ad503a7ac7fb5980b5b0df55d307',1,'ctre::phoenix::platform::can::StoredReceiveData::dataSize()']]],
   ['deadband',['Deadband',['../classctre_1_1phoenix_1_1_utilities.html#a03883b0d5bcfb615c7c4537c3ae3f3cd',1,'ctre::phoenix::Utilities']]],
   ['demandtype',['DemandType',['../namespacectre_1_1phoenix_1_1motorcontrol.html#a1e1df45f3a34a455bde60488159acb12',1,'ctre::phoenix::motorcontrol']]],
   ['demandtype_2eh',['DemandType.h',['../_demand_type_8h.html',1,'']]],

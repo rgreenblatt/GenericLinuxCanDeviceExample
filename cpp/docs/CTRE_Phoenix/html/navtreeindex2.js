@@ -1,6 +1,5 @@
 var NAVTREEINDEX2 =
 {
-"_sensor_collection_8h_source.html":[2,0,0,0,0,0,0,6],
 "_sensor_term_8h.html":[2,0,1,0,0,0,0,6,9],
 "_sensor_term_8h.html#a4f84db28c2d27cd678c7c1e867ba10c5":[2,0,1,0,0,0,0,6,9,0],
 "_sensor_term_8h.html#a4f84db28c2d27cd678c7c1e867ba10c5aa020f595db527cb9d7eb97b2d9046677":[2,0,1,0,0,0,0,6,9,0,1],
@@ -53,8 +52,8 @@ var NAVTREEINDEX2 =
 "_stopwatch_8cpp.html":[2,0,0,1,9],
 "_stopwatch_8h.html":[2,0,0,0,0,0,9],
 "_stopwatch_8h_source.html":[2,0,0,0,0,0,9],
-"_sys_watchdog_8h.html":[2,0,1,0,0,3],
-"_sys_watchdog_8h_source.html":[2,0,1,0,0,3],
+"_sys_watchdog_8h.html":[2,0,1,0,0,0,0,7,2],
+"_sys_watchdog_8h_source.html":[2,0,1,0,0,0,0,7,2],
 "_talon_s_r_x_8cpp.html":[2,0,0,1,0,0,1],
 "_talon_s_r_x_8h.html":[2,0,0,0,0,0,0,0,1],
 "_talon_s_r_x_8h_source.html":[2,0,0,0,0,0,0,0,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX2 =
 "class_low_level_pigeon_imu.html#af8d812244924f5445d49870b2d61a977":[1,0,6,15],
 "class_low_level_pigeon_imu.html#af8ef11d1e251c12c80b0372fa3a90f24":[1,0,6,4],
 "classctre_1_1phoenix_1_1_c_a_nifier.html":[1,0,0,0,6],
-"classctre_1_1phoenix_1_1_c_a_nifier.html#a0ff4c7e745cf2a1e7e261a2ae143b437":[1,0,0,0,6,10]
+"classctre_1_1phoenix_1_1_c_a_nifier.html#a0ff4c7e745cf2a1e7e261a2ae143b437":[1,0,0,0,6,10],
+"classctre_1_1phoenix_1_1_c_a_nifier.html#a19500f07bc0811a9da0993ff664eface":[1,0,0,0,6,1]
 };
