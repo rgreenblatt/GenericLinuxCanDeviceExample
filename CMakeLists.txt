@@ -14,7 +14,6 @@ set(LIBRARY_OUTPUT_PATH ${CMAKE_BINARY_DIR}/lib)
 set(THREADS_PREFER_PTHREAD_FLAG ON)
 
 find_package (Threads REQUIRED)
-find_package(SDL2 REQUIRED)
 
 # The following folder will be included
 include_directories("${PROJECT_SOURCE_DIR}/cpp/include")
@@ -26,6 +25,4 @@ add_executable(example ${PROJECT_SOURCE_DIR}/example.cpp)
 
 target_link_libraries(example ${CMAKE_SOURCE_DIR}/cpp/lib/libCTRE_Phoenix.a)
 target_link_libraries(example ${CMAKE_SOURCE_DIR}/cpp/lib/libCTRE_PhoenixCCI.a)
-target_link_libraries(example /usr/lib/libicsneoAPI.so)
 target_link_libraries(example Threads::Threads)
-target_link_libraries(example ${SDL2_LIBRARIES})
