@@ -6,6 +6,7 @@ var hierarchy =
     ] ],
     [ "ctre::phoenix::CANifierFaults", "structctre_1_1phoenix_1_1_c_a_nifier_faults.html", null ],
     [ "ctre::phoenix::CANifierStickyFaults", "structctre_1_1phoenix_1_1_c_a_nifier_sticky_faults.html", null ],
+    [ "ctre::phoenix::platform::can::CANProtocol", "classctre_1_1phoenix_1_1platform_1_1can_1_1_c_a_n_protocol.html", null ],
     [ "ctre::phoenix::platform::can::CANThreadManager", "classctre_1_1phoenix_1_1platform_1_1can_1_1_c_a_n_thread_manager.html", null ],
     [ "ctre::phoenix::motorcontrol::ControlFrameRoutines", "classctre_1_1phoenix_1_1motorcontrol_1_1_control_frame_routines.html", null ],
     [ "ctre::phoenix::CTRLogger", "classctre_1_1phoenix_1_1_c_t_r_logger.html", null ],

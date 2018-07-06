@@ -1,5 +1,7 @@
 var NAVTREEINDEX3 =
 {
+"classctre_1_1phoenix_1_1_c_a_nifier.html#a19500f07bc0811a9da0993ff664efacea0bb2891848b1761293cf890bfc48193b":[1,0,0,0,6,1,9],
+"classctre_1_1phoenix_1_1_c_a_nifier.html#a19500f07bc0811a9da0993ff664efacea0ff0307ecf659b02b3bb86730c3a38e6":[1,0,0,0,6,1,3],
 "classctre_1_1phoenix_1_1_c_a_nifier.html#a19500f07bc0811a9da0993ff664efacea205faff806dcfcbe6a4eb9c1ff9befa9":[1,0,0,0,6,1,2],
 "classctre_1_1phoenix_1_1_c_a_nifier.html#a19500f07bc0811a9da0993ff664efacea4e216c9380bbbaa732b264b919878e5f":[1,0,0,0,6,1,4],
 "classctre_1_1phoenix_1_1_c_a_nifier.html#a19500f07bc0811a9da0993ff664efacea64af2cd0e72739d95a8be160b2001497":[1,0,0,0,6,1,10],
@@ -247,7 +249,5 @@ var NAVTREEINDEX3 =
 "classctre_1_1phoenix_1_1motorcontrol_1_1can_1_1_base_motor_controller.html#a5cca53a002c8f2ad9c73cba16d5cfe10":[1,0,0,0,1,0,0,101],
 "classctre_1_1phoenix_1_1motorcontrol_1_1can_1_1_base_motor_controller.html#a62421d7be4401a73a997a014dae73f69":[1,0,0,0,1,0,0,100],
 "classctre_1_1phoenix_1_1motorcontrol_1_1can_1_1_base_motor_controller.html#a626574c0a9e8d734b5ab875488c19d02":[1,0,0,0,1,0,0,78],
-"classctre_1_1phoenix_1_1motorcontrol_1_1can_1_1_base_motor_controller.html#a63eb0f16a3f395fa0836fa4c3f5d3b89":[1,0,0,0,1,0,0,60],
-"classctre_1_1phoenix_1_1motorcontrol_1_1can_1_1_base_motor_controller.html#a675a0d4b459917b05fec22eae603d78c":[1,0,0,0,1,0,0,65],
-"classctre_1_1phoenix_1_1motorcontrol_1_1can_1_1_base_motor_controller.html#a6bc473f353c0ea110a60f2464e329bee":[1,0,0,0,1,0,0,37]
+"classctre_1_1phoenix_1_1motorcontrol_1_1can_1_1_base_motor_controller.html#a63eb0f16a3f395fa0836fa4c3f5d3b89":[1,0,0,0,1,0,0,60]
 };

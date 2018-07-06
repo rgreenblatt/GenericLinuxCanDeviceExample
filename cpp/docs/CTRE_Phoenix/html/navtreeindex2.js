@@ -1,5 +1,7 @@
 var NAVTREEINDEX2 =
 {
+"_sensor_term_8h.html":[2,0,1,0,0,0,0,6,9],
+"_sensor_term_8h.html#a4f84db28c2d27cd678c7c1e867ba10c5":[2,0,1,0,0,0,0,6,9,0],
 "_sensor_term_8h.html#a4f84db28c2d27cd678c7c1e867ba10c5aa020f595db527cb9d7eb97b2d9046677":[2,0,1,0,0,0,0,6,9,0,1],
 "_sensor_term_8h.html#a4f84db28c2d27cd678c7c1e867ba10c5ab873f6dde99d3c906d7229677f3a24eb":[2,0,1,0,0,0,0,6,9,0,0],
 "_sensor_term_8h.html#a4f84db28c2d27cd678c7c1e867ba10c5ad5ccf1b667d4a4729e8212046465d640":[2,0,1,0,0,0,0,6,9,0,3],
@@ -50,8 +52,8 @@ var NAVTREEINDEX2 =
 "_stopwatch_8cpp.html":[2,0,0,1,9],
 "_stopwatch_8h.html":[2,0,0,0,0,0,9],
 "_stopwatch_8h_source.html":[2,0,0,0,0,0,9],
-"_sys_watchdog_8h.html":[2,0,1,0,0,0,0,7,1],
-"_sys_watchdog_8h_source.html":[2,0,1,0,0,0,0,7,1],
+"_sys_watchdog_8h.html":[2,0,1,0,0,0,0,7,2],
+"_sys_watchdog_8h_source.html":[2,0,1,0,0,0,0,7,2],
 "_talon_s_r_x_8cpp.html":[2,0,0,1,0,0,1],
 "_talon_s_r_x_8h.html":[2,0,0,0,0,0,0,0,1],
 "_talon_s_r_x_8h_source.html":[2,0,0,0,0,0,0,0,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX2 =
 "class_low_level_pigeon_imu.html#af8ef11d1e251c12c80b0372fa3a90f24":[1,0,6,4],
 "classctre_1_1phoenix_1_1_c_a_nifier.html":[1,0,0,0,6],
 "classctre_1_1phoenix_1_1_c_a_nifier.html#a0ff4c7e745cf2a1e7e261a2ae143b437":[1,0,0,0,6,10],
-"classctre_1_1phoenix_1_1_c_a_nifier.html#a19500f07bc0811a9da0993ff664eface":[1,0,0,0,6,1],
-"classctre_1_1phoenix_1_1_c_a_nifier.html#a19500f07bc0811a9da0993ff664efacea0bb2891848b1761293cf890bfc48193b":[1,0,0,0,6,1,9],
-"classctre_1_1phoenix_1_1_c_a_nifier.html#a19500f07bc0811a9da0993ff664efacea0ff0307ecf659b02b3bb86730c3a38e6":[1,0,0,0,6,1,3]
+"classctre_1_1phoenix_1_1_c_a_nifier.html#a19500f07bc0811a9da0993ff664eface":[1,0,0,0,6,1]
 };

@@ -4,6 +4,7 @@
 #include <iostream>
 #include <chrono>
 #include <ctre/phoenix/Platform/SysWatchdog.h>
+#include <ctre/phoenix/Platform/CANProtocol.h>
 #include <dlfcn.h>
 #include <stdio.h>
 #include <pthread.h>
@@ -27,11 +28,14 @@
 
 using namespace ctre::phoenix;
 using namespace ctre::phoenix::platform;
+using namespace ctre::phoenix::platform::can;
 using namespace ctre::phoenix::motorcontrol;
 using namespace ctre::phoenix::motorcontrol::can;
 
 int main() {
 
+    bool success;
+    CANProtocol::GetInstance().SetInterface("can0", success);
     TalonSRX * talon = new TalonSRX(1);
     
     // Initialize the joystick subsystem
