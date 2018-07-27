@@ -1,5 +1,4 @@
 #include "ctre/Phoenix.h"
-
 #include <string>
 #include <iostream>
 #include <chrono>
