@@ -28,7 +28,7 @@ int main() {
  
         talon->Set(ControlMode::PercentOutput, 0.3);
         
-        std::this_thread::sleep_for(std::chrono::microseconds(20));
+        std::this_thread::sleep_for(std::chrono::milliseconds(20));
     }
 
     return 0;
